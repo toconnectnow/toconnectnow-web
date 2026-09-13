@@ -1,23 +1,29 @@
-# ESTÁNDAR HIGH-TICKET — ecosistema BE+HE+TECH (política inquebrantable)
+# ESTÁNDAR HIGH-TICKET / ECOSISTEMA COGNITIVO — BE+HE+TECH (INQUEBRANTABLE)
 
-## Mercado
-Todo el ecosistema sirve exclusivamente a un mercado **B2B Premium / High-Ticket**.
-No competimos por precio; competimos por supremacía tecnológica y cognitiva.
-Si una función añade fricción visual o técnica, se elimina.
+## Mercado — Grandes Ligas
+Todo lo que se construye en esta empresa apunta a un target **Premium /
+High-Level de Alta Gama**: dueños de negocio que invierten $1,000–$3,000
+USD/mes. No vendemos software barato. El estándar visual y técnico es
+corporativo, futurista y "Apple-Grade". Estamos construyendo un imperio.
 
-## UI/UX — "Apple-Grade"
-- Minimalista, oscuro, cristalino, cero fricción.
-- El lenguaje público es de **auditoría, acceso y despliegue** — nunca de
-  "oferta" ni "precio bajo". Cero popups, cero clutter.
+## Agentes Generadores de Ingresos (Closers, no chatbots)
+LIA, MIA, BONITA, ALISA y LIAM NO son bots de soporte: son **generadores de
+capital**. Su lógica está optimizada para perfilar prospectos, romper
+objeciones con datos reales, manejar telemetría, recuperar pagos abandonados
+y cerrar ventas. "Cero Alucinaciones Financieras": la escasez solo se
+expresa con datos verdaderos.
 
-## Plan Enterprise (quinto nivel, oculto)
-- Sin precio público. NUNCA un `$` junto a Enterprise.
-- CTA único: **"Auditoría Privada"**. Negociado por el agente de cierre
-  de alto nivel. `enterprise` jamás resuelve a checkout ni payment link.
+## Plan Enterprise "Fantasma"
+Quinto nivel estructural y oculto: sin precio público. Flujo: **Interés del
+Cliente → Auditoría Privada → Negociación** — el precio lo negocia un agente
+IA de cierre al nivel que el cliente pueda soportar. `enterprise` jamás
+resuelve a checkout ni payment link.
 
-## Agentes de IA — generadores de ingresos
-- Los agentes (LIA, Swarm, Neural Mentor, Copiloto) califican, presionan
-  escasez real, recuperan pagos abandonados y cierran ventas. No son
-  chatbots de soporte: producen ingresos.
-- "Cero Alucinaciones Financieras": la escasez solo se expresa con datos
-  reales. Enterprise-scale → Auditoría Privada, nunca botón de compra público.
+## Zero-Touch como ley
+UI cristalina, oscura, inmersiva, 100% libre de fricción. **Si un flujo
+requiere intervención manual humana innecesaria, es un error
+arquitectónico y debe automatizarse.**
+
+## Filtro de Calidad Implacable
+Todo módulo, texto, componente o librería genérico, "barato" o que añada
+latencia **se marca para destrucción**. No se refactoriza: se elimina.
